@@ -112,20 +112,6 @@ https://linetlydia-sales-and-inventory-forecasting-system-app-y0kvmm.streamlit.a
 
 ---
 
-## 🗂 Project Structure
-
-Sales_and_Inventory_Forecasting_System/
-│── app.py # Streamlit app
-│── dfm.csv # Model-ready dataset
-│── future_forecast.csv # 12-month forecasted demand
-│── inventory_plan.csv # Inventory simulation outputs
-│── inventory_risk.csv # Risk classification outputs
-│── requirements.txt
-│── README.md
-
-
----
-
 ## 📦 Installation & Running Locally
 
 ### 1. Clone the repository
