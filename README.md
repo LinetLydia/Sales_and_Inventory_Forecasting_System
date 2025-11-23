@@ -1,10 +1,10 @@
-# 📊 Sales and Inventory Forecasting System  
+# **Sales and Inventory Forecasting System** 
 A comprehensive end-to-end machine learning system for forecasting sales, predicting inventory depletion, and identifying stockout risks across 300 products.  
 Built with **Python, XGBoost, Streamlit, and a multi-table data architecture**.
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project simulates a real-world retail forecasting pipeline designed to help businesses:
 
@@ -19,7 +19,7 @@ The system is built from scratch using **synthetic but realistic transactional a
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 
 The project follows a **full data science lifecycle**:
 
@@ -105,14 +105,14 @@ Deployed dashboard includes:
 
 ---
 
-## 🚀 Live Demo (Streamlit App)
+## Live Demo (Streamlit App)
 
-👉 **Launch App:**  
+**Launch App:**  
 https://linetlydia-sales-and-inventory-forecasting-system-app-y0kvmm.streamlit.app/
 
 ---
 
-## 📦 Installation & Running Locally
+## Installation & Running Locally
 
 ### 1. Clone the repository
 ```bash
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 ### 3. Run the Streamlit app
 streamlit run app.py
 
-## 🧠 **Key Insights from the Model**
+## **Key Insights from the Model**
 
 - Out of **300 products**, **47 are classified as High-Risk** and require urgent inventory action.
 - Only **4 products have an expected stockout** within the next 12 months.
@@ -146,7 +146,7 @@ streamlit run app.py
 
 ---
 
-## 📈 **Future Enhancements**
+## **Future Enhancements**
 
 Planned upgrades include:
 
@@ -159,9 +159,8 @@ Planned upgrades include:
 
 ---
 
-## 👤 **Author**
+## **Author**
 
 **Linet Lydia Kagundu**  
 *Data Analyst | Machine Learning | Analytics Engineering*  
 📍 Nairobi, Kenya  
-🔗 *Portfolio Website (Coming Soon)*  
