@@ -108,7 +108,7 @@ Deployed dashboard includes:
 ## Live Demo (Streamlit App)
 
 **Launch App:**  
-https://linetlydia-sales-and-inventory-forecasting-system-app-y0kvmm.streamlit.app/
+https://linetlydia-sales-and-inventory-forecasting-system-app-u3spgl.streamlit.app/
 
 ---
 
